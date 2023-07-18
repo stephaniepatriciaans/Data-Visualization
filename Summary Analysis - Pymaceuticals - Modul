@@ -1,0 +1,8 @@
+Summary Analysis - Pymaceuticals - Module 5 Challenge
+
+The scatter plot shows a positive association between mouse weight and tumor volume, showing that as the mouse weight grows, so does the average tumor volume
+There are no probable outliers for Capomulin, Ramicane, or Ceftamin. However, one probable outlier with a tumor volume of 36.32 mm3 has been observed for Infubinol.
+The research sheds light on the tumor volume and treatment regimens of mice.
+Capomulin and Ramicane exhibit encouraging outcomes in terms of tumor volume reduction, with lower mean tumor volumes than previous therapy regimens.
+Infubinol has one possible outlier, suggesting that more research is required.
+The association between mouse weight and tumor volume emphasizes the need of taking weight into account when examining treatment outcomes.
